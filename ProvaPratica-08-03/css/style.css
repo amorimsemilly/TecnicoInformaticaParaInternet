@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(242, 237, 237);
+    
+}
+
+.links{
+    text-decoration: none;
+    text-align: end;
+    color: rgb(68, 66, 66);
+    padding: 35px;
+    font-size: medium;
+    font-style: none;
+   
+   
+}
+.cabeçalho{
+    text-align: start-end;
+    color:rgb(0, 0, 0);
+    align-items: center;
+    padding: 30px;
+    background-color: rgb(220, 213, 213);
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+
+.corpo{
+    align-items: center;
+}
+
+.img{
+    width: 600px;
+    
+    
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
