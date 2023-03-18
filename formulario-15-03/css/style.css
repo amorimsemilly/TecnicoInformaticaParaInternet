@@ -1,0 +1,50 @@
+.container{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 610px;
+
+    
+}
+.bolas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.c{
+    width: 1.8rem;
+    height: 1.8rem;
+    border-radius: 100%;
+    border: 2px solid;
+    text-align: center;
+    background-image: radial-gradient(circle at 100% 0%, #d654fd 0, #a147e0 25%, #6a36bc 50%, #322597 75%, #001775 100%);
+    color: aliceblue;
+    
+}
+
+body{
+    
+   width: 480px;
+background-image: radial-gradient(circle at 100% 0%, #d654fd 0, #a147e0 25%, #6a36bc 50%, #322597 75%, #001775 100%);
+}
+
+.btn1{
+    background-image: radial-gradient(circle at 100% 0%, #d654fd 0, #a147e0 25%, #6a36bc 50%, #322597 75%, #001775 100%);
+    color: aliceblue;
+    width: 190px;
+}
+
+.titulos{
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    
+}
+.traco{
+    width: 4rem;
+    height: 0.2rem;
+    background-color: black;
+    margin-top: 12px;
+
+}
